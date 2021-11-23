@@ -7,6 +7,8 @@
 
 ### Sou um estudante em Desenvolvimento Java, participando do programa +Devs2Blu em Blumenau - SC.
 
-- 👨‍🎓  &nbsp; Sou graduado em Análise e Desenvolvimento de Sistemas pelo [IFC](https://ifc.edu.br/).
+- 👨‍🎓  &nbsp; Pós Graduação em Ciência de Dados pela [Asselvi](https://portal.uniasselvi.com.br/). 
+- 👨‍🎓  &nbsp; Graduação em Análise e Desenvolvimento de Sistemas pelo [IFC](https://ifc.edu.br/).
+- 👨‍🎓  &nbsp; Formação no Técnico Têxtil pelo [SENAI](https://sc.senai.br/).
 - 👨‍💻 &nbsp; Atualmente trabalho na [Huvispan Têxtil](http://huvispan.com.br/) como Coordenador de Suporte em TI
 - 📖 &nbsp; Estudando e praticando sobre Backend Java
