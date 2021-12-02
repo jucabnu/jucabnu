@@ -23,11 +23,3 @@
   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  </div> 
-
-##
-
-<div align="center">
-  <a href="https://github.com/jucabnu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jucabnu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucabnu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
