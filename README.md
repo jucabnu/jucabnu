@@ -16,10 +16,34 @@
 ##
 
 <div style="display: inline_block">
-  <h4>:books: Conhecimentos e estudos atualmente :books:</h4>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <h4>Tecnologias que estou usando/aprendendo:</h4>
+  
+  <h5>Dev e Banco de Dados</h5>
+ 
+   <img align="center" alt="Java" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/java-icon.svg">
+   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/javascript-icon.svg">
+   <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/nodejs-icon.svg">
+   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/mysql-icon.svg">
+   <img align="center" alt="Html5" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/w3_html5-icon.svg">
+   <img align="center" alt="Css3" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/w3_css-icon.svg">
+   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/springio-icon.svg">
+   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/angular-icon.svg"> 
+   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/getbootstrap-icon.svg">
+ 
+  <h5>DevOps</h5>
+ 
+   <img align="center" alt="Ansible" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/ansible-icon.svg">
+   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/docker-icon.svg">
+   <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/kubernetes-icon.svg"> 
+   <img align="center" alt="Vagrant" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/vagrantup-icon.svg">
+   <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/terraformio-icon.svg">
+   <img align="center" alt="Grafana" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/grafana-icon.svg">
+   <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/jenkins-icon.svg">
+    
+  <h5>Outros</h5>
+ 
+   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/arduino-icon.svg">
+   <img align="center" alt="RaspBerryPi" height="30" width="40" src="https://github.com/jucabnu/jucabnu/blob/main/raspberrypi-icon.svg">
+ 
+ 
  </div> 
