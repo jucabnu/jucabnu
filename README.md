@@ -5,7 +5,7 @@
  [![Instagram Badge](https://img.shields.io/badge/-Jucabnu-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
 [![Gmail Badge](https://img.shields.io/badge/-julianovieira.bc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianovieira.bc@gmail.com)](mailto:nandodevs@gmail.com)
 
-### Atualmente estou participando do programa [+Devs2Blu](https://devs2blu.com.br/) em Blumenau - SC.
+### Participando do programa [+Devs2Blu](https://devs2blu.com.br/) em Blumenau - SC.
 
 - 👨‍🎓  &nbsp; Pós Graduação em Ciência de Dados pela [Asselvi](https://portal.uniasselvi.com.br/). 
 - 👨‍🎓  &nbsp; Graduação em Análise e Desenvolvimento de Sistemas pelo [IFC](https://ifc.edu.br/).
