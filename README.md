@@ -1,5 +1,5 @@
 ## Olá! Sou J. Henrique Vieira 👋
-#### Bem vindo ao meu mundo 💻!
+#### Bem vindo(a) ao meu mundo 💻!
 
  [![Linkedin Badge](https://img.shields.io/badge/-JulianoVieira-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliano-h-vieira/)](https://www.linkedin.com/in/juliano-h-vieira/) 
  [![Instagram Badge](https://img.shields.io/badge/-Jucabnu-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
