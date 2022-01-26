@@ -11,7 +11,7 @@
 - 👨‍🎓  &nbsp; Graduação em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
 - 👨‍🎓  &nbsp; Formação em Técnico em Informática pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
 - 👨‍🎓  &nbsp; Formação em Técnico Têxtil pelo [SENAI](https://sc.senai.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [Huvispan Têxtil](http://huvispan.com.br/) atuado como Coordenador de TI/Suporte.
+- 👨‍💻 &nbsp; Atualmente trabalho na [Huvispan Têxtil](http://huvispan.com.br/) atuando como Coordenador de TI/Suporte.
 - 📖 &nbsp; Estudando no programa [+Devs2Blu](https://devs2blu.com.br/)
 
 ##
