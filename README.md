@@ -25,9 +25,7 @@
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
    <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/nodejs-icon.svg">   
    <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_html5-icon.svg">
-   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">
-   <img align="center" alt="Spring" height="30" width="30" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/springio-icon.svg">
-   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/angular-icon.svg"> 
+   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">    
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/getbootstrap-icon.svg">
  <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/typescriptlang-icon.svg">
  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">
