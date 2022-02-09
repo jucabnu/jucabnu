@@ -25,17 +25,13 @@
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
    <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_html5-icon.svg">
    <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">    
-   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">
-   <img align="center" alt="Hibernate" height="30" width="30" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/hibernate-icon.svg">
+   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">   
  
   <h5>DevOps</h5>
  
    <img align="center" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/ansible-icon.svg">
-   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/docker-icon.svg">
-   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/kubernetes-icon.svg"> 
    <img align="center" alt="Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/vagrantup-icon.svg">
-   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/grafana-icon.svg">
-   <img align="center" alt="Puppet" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/puppet-icon.svg">
+   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/grafana-icon.svg">   
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/git-scm-icon.svg">
     
   <h5>Outros</h5>
