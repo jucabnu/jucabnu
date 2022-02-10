@@ -8,7 +8,7 @@
 ### Participando do programa [+Devs2Blu](https://devs2blu.com.br/) em Blumenau - SC.
 
 - 👨‍🎓  &nbsp; Pós graduado em Ciência de Dados pela [Uniasselvi](https://portal.uniasselvi.com.br/). 
-- 👨‍🎓  &nbsp; Graduado Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
+- 👨‍🎓  &nbsp; Graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
 - 👨‍🎓  &nbsp; Técnico em Informática pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
 - 👨‍🎓  &nbsp; Técnico Têxtil pelo [SENAI](https://sc.senai.br/).
 - 👨‍💻 &nbsp; Trabalhando na [Huvispan Têxtil](http://huvispan.com.br/) atuando como Coordenador de TI/Suporte.
