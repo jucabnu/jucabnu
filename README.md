@@ -13,6 +13,7 @@
 - 👨‍🎓  &nbsp; Técnico Têxtil pelo [SENAI](https://sc.senai.br/).
 - 👨‍💻 &nbsp; Trabalhando na [Huvispan Têxtil](http://huvispan.com.br/) atuando como Coordenador de TI/Suporte.
 - 📖 &nbsp; Estudando no programa [+Devs2Blu](https://devs2blu.com.br/)
+- 🧠 &nbsp; Cursos concluídos na [Alura](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95): [clique aqui](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95)
 
 ##
 
