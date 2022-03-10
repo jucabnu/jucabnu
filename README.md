@@ -5,6 +5,13 @@
  [![Instagram Badge](https://img.shields.io/badge/-Jucabnu-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
 [![Gmail Badge](https://img.shields.io/badge/-julianovieira.bc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianovieira.bc@gmail.com)](mailto:nandodevs@gmail.com)
 
+<blockquote>
+<p>"Nós não somos estudantes de alguma disciplina, mas estudantes de problemas. 
+E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou disciplina."</p>
+ <p>- Karl Popper</p>
+ </blockquote>
+
+
 ### Participando do programa [+Devs2Blu](https://devs2blu.com.br/) em Blumenau - SC.
 
 - 👨‍🎓  &nbsp; Pós graduado em Ciência de Dados pela [Uniasselvi](https://portal.uniasselvi.com.br/). 
