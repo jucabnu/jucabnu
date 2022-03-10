@@ -8,7 +8,7 @@
 <blockquote>
 <p>"Nós não somos estudantes de alguma disciplina, mas estudantes de problemas. 
 E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou disciplina."</p>
- <p>- Karl Popper</p>
+ <p>- Karl Popper (Conjectures and Refutations: The Growth of Scientific Knowledge)</p>
  </blockquote>
 
 
