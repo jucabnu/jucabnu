@@ -1,5 +1,4 @@
 ## Olá! Sou Juliano Henrique Vieira 👋
-#### Bem vindo(a) ao meu mundo 💻!
 
  [![Linkedin Badge](https://img.shields.io/badge/-JulianoVieira-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliano-h-vieira/)](https://www.linkedin.com/in/juliano-h-vieira/) 
  [![Instagram Badge](https://img.shields.io/badge/-Jucabnu-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
@@ -10,9 +9,8 @@
 E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou disciplina."</p>
  <p>- Karl Popper (Conjectures and Refutations: The Growth of Scientific Knowledge)</p>
  </blockquote>
-
-
-### Participando do programa [+Devs2Blu](https://devs2blu.com.br/) em Blumenau - SC.
+ 
+ <hr>
 
 - 👨‍🎓  &nbsp; Pós graduado em Ciência de Dados pela [Uniasselvi](https://portal.uniasselvi.com.br/). 
 - 👨‍🎓  &nbsp; Graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Catarinense](https://ifc.edu.br/).
@@ -22,10 +20,11 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 - 📖 &nbsp; Estudando no programa [+Devs2Blu](https://devs2blu.com.br/)
 - 🧠 &nbsp; Cursos concluídos na [Alura](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95): [clique aqui](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95)
 
-##
+ </div>
+ 
 
 <div style="display: inline_block">
-  <h4>Tecnologias que estou usando/aprendendo:</h4>
+  <h5>Tecnologias que estou usando/aprendendo:</h5>
  
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/java-icon.svg">
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
