@@ -26,25 +26,21 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 
 <div style="display: inline_block">
   <h4>Tecnologias que estou usando/aprendendo:</h4>
-  
-  <h5>Dev e Banco de Dados</h5>
  
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/java-icon.svg">
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
    <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_html5-icon.svg">
    <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">    
    <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">   
- 
-  <h5>DevOps</h5>
- 
    <img align="center" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/ansible-icon.svg">
    <img align="center" alt="Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/vagrantup-icon.svg">
    <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/grafana-icon.svg">   
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/git-scm-icon.svg">
-    
-  <h5>Outros</h5>
- 
    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/arduino-icon.svg">
    <img align="center" alt="RaspBerryPi" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/raspberrypi-icon.svg">
    
  </div> 
+ 
+##
+
+<img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jucabnu&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucabnu&layout=compact&langs_count=7&theme=aura_dark"/>
