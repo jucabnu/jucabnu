@@ -30,6 +30,12 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
    <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_html5-icon.svg">
    <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">    
+   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+   <img align="center" alt="logo spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="center" alt="logo Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img align="center" alt="logo bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  
    <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">   
    <img align="center" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/ansible-icon.svg">
    <img align="center" alt="Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/vagrantup-icon.svg">
@@ -42,4 +48,11 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
  
 ##
 
-<img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jucabnu&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucabnu&layout=compact&langs_count=7&theme=aura_dark"/>
+<div>
+    <a href="https://github.com/WilliamBollner">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=jucabnu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucabnu&layout=compact&langs_count=7&theme=tokyonight" />
+    </a>
+</div>
