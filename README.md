@@ -26,10 +26,9 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 <div style="display: inline_block">
   <h5>Tecnologias que estou usando/aprendendo:</h5>
  
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/java-icon.svg">
-   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/javascript-icon.svg">
-   <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_html5-icon.svg">
-   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/w3_css-icon.svg">    
+   <img align="center" alt="Java" height="40" width="30" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">   
+   <img align="center" alt="Html5" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+   <img align="center" alt="Css3" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">    
    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
    <img align="center" alt="logo spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
