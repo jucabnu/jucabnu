@@ -48,7 +48,7 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 ##
 
 <div>
-    <a href="https://github.com/WilliamBollner">
+    <a href="https://github.com/jucabnu">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=jucabnu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
         <img height="180em"
