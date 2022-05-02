@@ -21,14 +21,13 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 - 🧠 &nbsp; Cursos concluídos na [Alura](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95): [clique aqui](https://cursos.alura.com.br/user/suporte-huvispan-com-br/fullCertificate/6450962f52ae4dbf9cd69ecec8d79a95)
 
  </div>
- 
 
 <div style="display: inline_block">
   <h5>Tecnologias que estou usando/aprendendo:</h5>
  
-   <img align="center" alt="Java" height="40" width="30" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">   
-   <img align="center" alt="Html5" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-   <img align="center" alt="Css3" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">    
+   <img align="center" alt="Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">   
+   <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">    
    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
    <img align="center" alt="logo spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -41,7 +40,6 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
    <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
    <img align="center" alt="RaspBerryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
- 
    
  </div> 
  
