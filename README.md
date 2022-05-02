@@ -34,14 +34,14 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
    <img align="center" alt="logo spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img align="center" alt="logo Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="logo bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  
-   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/mysql-icon.svg">   
-   <img align="center" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/ansible-icon.svg">
-   <img align="center" alt="Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/vagrantup-icon.svg">
-   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/grafana-icon.svg">   
-   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/git-scm-icon.svg">
-   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/arduino-icon.svg">
-   <img align="center" alt="RaspBerryPi" height="30" width="40" src="https://raw.githubusercontent.com/jucabnu/about_jucabnu/main/icons/raspberrypi-icon.svg">
+   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">    
+   <img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+   <img align="center" alt="Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+   <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">          
+   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+   <img align="center" alt="RaspBerryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+ 
    
  </div> 
  
