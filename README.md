@@ -26,17 +26,13 @@ E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou d
 <div style="display: inline_block">
   <h5>Tecnologias que estou usando/aprendendo:</h5>
  
-   <img align="center" alt="Go" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">   
    <img align="center" alt="Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">   
    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
    <img align="center" alt="logo Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-   <img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-   <img align="center" alt="Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">             
    <img align="center" alt="Zabbix" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png">    
    <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
    <img align="center" alt="ProxMox" height="30" width="30" src="https://blog.zwindler.fr/2017/08/proxmox_logo.png">       
-   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
    <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
    
    
