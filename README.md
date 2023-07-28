@@ -1,10 +1,7 @@
 ## Olá! Sou Juliano Henrique Vieira 👋
 
  [![Linkedin Badge](https://img.shields.io/badge/-JulianoVieira-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliano-h-vieira/)](https://www.linkedin.com/in/juliano-h-vieira/) 
- [![Instagram Badge](https://img.shields.io/badge/-Jucabnu-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
-[![Gmail Badge](https://img.shields.io/badge/-julianovieira.bc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianovieira.bc@gmail.com)](mailto:nandodevs@gmail.com)
-
-<blockquote>
+ <blockquote>
 <p>"Nós não somos estudantes de alguma disciplina, mas estudantes de problemas. 
 E problemas podem atravessar diretamente as fronteiras de qualquer matéria ou disciplina."</p>
  <p>- Karl Popper (Conjectures and Refutations: The Growth of Scientific Knowledge)</p>
